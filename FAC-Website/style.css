@@ -54,7 +54,7 @@ i a:hover{
   grid-area: Intro;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
-  font-size: 14px;
+  font-size: 15px;
   color: goldenrod;
   font-family: "Rubik", sans-serif;
 }
