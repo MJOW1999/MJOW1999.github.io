@@ -20,6 +20,10 @@ html{
 	font-size: 12px;
 	text-align: center;
 }
+h1{
+	font-family: "Rubik", sans-serif;
+	color: gold;
+}
 #navbar{
 	background-color: #1a1a2e;
 	grid-area: nav;
