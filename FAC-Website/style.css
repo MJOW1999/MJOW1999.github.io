@@ -93,3 +93,11 @@ i a:hover{
 	font-size: 13px;
 	font-family: "Montserrat", sans-serif;
 }
+#content2 ol{
+	list-style-type: none;
+	padding: 0;
+	color: white;
+}
+#content2 h3{
+	color: goldenrod;
+}
