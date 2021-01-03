@@ -36,3 +36,6 @@ html{
 	font-family: "Rubik", sans-serif;
 	font-size: 20px;
 }
+#navbar a:hover{
+	color: red;
+}
