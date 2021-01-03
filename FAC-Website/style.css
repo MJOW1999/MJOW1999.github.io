@@ -66,3 +66,8 @@ i a:hover{
 	color: white;
 	font-family: "Montserrat", sans-serif;
 }
+#sidebar ul{
+	list-style-type: circle;
+	text-align: left;
+	font-family: "Open Sans", sans-serif;
+}
