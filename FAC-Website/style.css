@@ -49,3 +49,12 @@ i a:hover{
 #navbar a:hover{
 	color: red;
 }
+#Intro{
+  background-color: #16213e;
+  grid-area: Intro;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+  font-size: 14px;
+  color: goldenrod;
+  font-family: "Rubik", sans-serif;
+}
