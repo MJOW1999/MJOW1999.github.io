@@ -6,3 +6,7 @@ html{
   --main-radius: 5px;
   --main-padding: 5px;
 }
+.main-grid{
+	display: grid;
+	height: 100vh;
+}
