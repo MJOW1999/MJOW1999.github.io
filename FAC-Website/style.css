@@ -84,3 +84,12 @@ i a:hover{
 	font-family: "Open Sans", sans-serif;
 	color: white;
 }
+#content2{
+	background-color: #0f3460;
+	grid-area: content2;
+	border-radius: var(--main-radius);
+	padding-top: var(--main-padding);
+	padding-right: 15px;
+	font-size: 13px;
+	font-family: "Montserrat", sans-serif;
+}
