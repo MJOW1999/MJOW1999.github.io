@@ -58,3 +58,11 @@ i a:hover{
   color: goldenrod;
   font-family: "Rubik", sans-serif;
 }
+#sidebar{
+	background-color: #16213e;
+	grid-area: sidebar;
+	border-radius: var(--main-radius);
+	padding-top: var(--main-padding);
+	color: white;
+	font-family: "Montserrat", sans-serif;
+}
