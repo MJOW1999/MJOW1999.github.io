@@ -71,3 +71,16 @@ i a:hover{
 	text-align: left;
 	font-family: "Open Sans", sans-serif;
 }
+#content1{
+	background-color: #16213e;
+	grid-area: content1;
+	border-radius: var(--main-radius);
+	padding: var(--main-padding);
+	font-size: 13px;
+	font-family: "Montserrat", sans-serif;
+	color: goldenrod;
+}
+#content1 p{
+	font-family: "Open Sans", sans-serif;
+	color: white;
+}
