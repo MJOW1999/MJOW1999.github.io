@@ -9,4 +9,11 @@ html{
 .main-grid{
 	display: grid;
 	height: 100vh;
+	grid-template-columns: 0.5fr 1fr 0.8fr;
+	grid-template-rows: 0.4fr 0.8fr 1.5fr 0.8fr;
+	grid-template-areas:
+		"nav nav nav"
+		"sidebar Intro content1"
+		"content2 content2 content3"
+		"footer footer footer";
 }
