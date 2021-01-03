@@ -31,4 +31,6 @@ html{
 #navbar a {
 	float: left;
 	width: 20%;
+	color:  white;
+	text-decoration: none;
 }
