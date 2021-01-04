@@ -223,6 +223,9 @@ img{
 			"footer";
 	}
 	#Intro{
-    font-size: 14px;
+		font-size: 14px;
+	}
+	#navbar a{
+		width: 100%;
 	}
 }
