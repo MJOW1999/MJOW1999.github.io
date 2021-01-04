@@ -186,3 +186,14 @@ img{
 #sm-links h4{
   font-family: "Montserrat", sans-serif;
 }
+.iconify{
+  display: inline-block;
+  padding: 20px;
+  margin-left: 50px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.iconify:hover{
+  opacity:0.5;
+}
