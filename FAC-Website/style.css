@@ -197,3 +197,7 @@ img{
 .iconify:hover{
   opacity:0.5;
 }
+#cw-logo{
+  background: #b1361e;
+  color: white;
+}
