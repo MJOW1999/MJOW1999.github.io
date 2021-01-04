@@ -173,3 +173,16 @@ img{
 .ic__button:hover{
   opacity: 0.5;
 }
+#sm-links{
+  background-color: #e94560;
+  grid-area: footer;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+  color: gainsboro;
+}
+#sm-links h2{
+  font-family: "Lato", sans-serif;
+}
+#sm-links h4{
+  font-family: "Montserrat", sans-serif;
+}
