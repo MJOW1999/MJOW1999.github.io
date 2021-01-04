@@ -138,3 +138,14 @@ i a:hover{
   height: 300px;
   justify-content: start;
 }
+.ic__images{
+  display: flex;
+  transform: translateX(0);
+  transition: transform: 0.25s;
+}
+img{
+  border-radius: 5px;
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
