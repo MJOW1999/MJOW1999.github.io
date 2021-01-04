@@ -209,3 +209,17 @@ img{
   color: #ffffff;
   background: #0a0a23;
 }
+@media only screen and (max-width: 800px){
+	.main-grid{
+		grid-template-columns: 1fr;
+		grid-template-rows: 0.4fr 0.5fr 1fr 1.5fr 1.2fr 0.5fr 0.6fr;
+		grid-template-areas:
+			"nav"
+			"Intro"
+			"content1"
+			"content2"
+			"content3"
+			"sidebar"
+			"footer";
+	}
+}
