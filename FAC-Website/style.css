@@ -234,4 +234,7 @@ img{
 	#sidebar h2{
 		color: gold;
 	}
+	.iconify{
+		margin-left: 10px;
+	}
 }
