@@ -101,3 +101,12 @@ i a:hover{
 #content2 h3{
 	color: goldenrod;
 }
+#content3{
+	background-color: #0f3460;
+	grid-area: content3;
+	border-radius: var(--main-radius);
+	padding-top: var(--main-padding);
+	display: inline-block;
+	font-family: "Montserrat", sans-serif;
+	color: gold;
+}
