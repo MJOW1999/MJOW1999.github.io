@@ -118,3 +118,13 @@ i a:hover{
 	margin-top: 20px;
 	color: goldenrod;
 }
+#project-description a{
+  font-size:14px;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  color: gold;
+}
+#project-description a:hover{
+  color: firebrick;
+  font-size:20px;
+}
