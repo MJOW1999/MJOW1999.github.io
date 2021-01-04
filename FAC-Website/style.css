@@ -228,4 +228,10 @@ img{
 	#navbar a{
 		width: 100%;
 	}
+	#sidebar{
+		background-color: #0f3460;
+	}
+	#sidebar h2{
+		color: gold;
+	}
 }
