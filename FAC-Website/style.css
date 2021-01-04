@@ -128,3 +128,13 @@ i a:hover{
   color: firebrick;
   font-size:20px;
 }
+.ic {
+  align-items: center;
+  display: flex;
+  margin: .5rem auto;
+  overflow: hidden;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  justify-content: start;
+}
